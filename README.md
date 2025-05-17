@@ -8,11 +8,17 @@ The Library Management System Project In Java And MySQL is simple and basic leve
 Also, you can modify this system as per your requirements and develop a perfect advance level project.
 
 Available Modules: Login/ Logout Module 
+
 Account Management
+
 Manage Books 
+
 Manage Students 
+
 Issue Book 
+
 Return Book 
+
 View Records 
 
 About project ↥ back to top Important JAR links: https://t.me/eagle_programming/1
